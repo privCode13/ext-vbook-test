@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "author": "priv",
+    "description": "📛🔻📛"
+  },
+  "data": [
+    {
+      "name": "Trùm Truyện",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/TrumTruyen/plugin.zip",
+      "version": 3,
+      "source": "https://trumtruyen.vn",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/TrumTruyen/icon.png",
+      "description": "Đọc truyện trên trang Trùm Truyện",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "truyenheo",
+      "author": "priv",
+      "path": "https://raw.githubusercontent.com/privCode13/ext-vbook/main/truyenheo/plugin.zip",
+      "version": 10,
+      "source": "https://truyensextv.cc/",
+      "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook/main/truyenheo/icon.png",
+      "description": "Đọc truyện trên trang http://truyensextv.me tác giả là hajljnopera mà xóa rồi, dat-bi sửa",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    }
+  ]
+}
