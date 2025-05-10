@@ -5,7 +5,7 @@
   },
   "data": [
     {
-      "name": "Trùm Truyện",
+      "name": "Trùm Truyện Priv",
       "author": "priv",
       "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/TrumTruyen/plugin.zip",
       "version": 3,
@@ -16,7 +16,7 @@
       "locale": "vi_VN"
     },
     {
-      "name": "truyenheo",
+      "name": "truyenheo priv",
       "author": "priv",
       "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/truyenheo/plugin.zip",
       "version": 10,
