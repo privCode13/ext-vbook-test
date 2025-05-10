@@ -4,7 +4,7 @@ function execute(url) {
         return Response.success({
             name: doc.select("h3.title").text(),
             cover: doc.select("div.book img").attr("src"),
-            host: "https://trumtruyen.vn",
+            host: "https://trumtruyen.live",
             author: doc.select("div.info div a").first().text(),
             description: doc.select("div.desc-text").html(),
             detail: doc.select("div.info").html().replace("</?h3>", ""),
