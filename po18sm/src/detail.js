@@ -1,8 +1,9 @@
 load("config.js")
-
 function execute(url) {
-    var doc = Http.get(url).html();
-    if (doc) {
+    var response = fetch(url);
+    if (response.ok) {
+        var doc = response.html();
+        
         return Response.success({
             name: doc.select("div.info2 h1").text(),
             cover: doc.select("div.info1 img").attr("src"),
