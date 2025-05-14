@@ -3,7 +3,7 @@
     "name": "po18sm",
     "author": "priv",
     "version": 1,
-    "source": "https://www.po18sm.com/",
+    "source": "https://www.po18sm.com",
     "regexp": "^(https?:\\/\\/)?(www\\.)?po18sm\\.com\\/\\d+\\/\\d+\\.html$",
     "description": "Đọc truyện trên trang po18sm.com",
     "locale": "zh-CN",

@@ -35,8 +35,8 @@
       "source": "https://docsach24.co",
       "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/docsach24toc/icon.png",
       "description": "Docsach24toc"
-        },
-        {
+    },
+    {
       "name": "po18sm priv",
       "author": "priv",
       "path": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/po18sm/plugin.zip",
@@ -44,6 +44,6 @@
       "source": "https://www.po18sm.com",
       "icon": "https://raw.githubusercontent.com/privCode13/ext-vbook-test/main/po18sm/icon.png",
       "description": "po18sm"
-        }
+    }
   ]
 }
