@@ -14,7 +14,7 @@ function execute(url, page) {
                 link: e.select(".truyen-title > a").first().attr("href"),
                 description: e.select(".author").text(),
                 cover: e.select("img").attr("src"),
-                host: "https://truyenfull.vn",
+                host: "https://trumtruyen.live",
             });
 
         }

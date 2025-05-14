@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "po18sm",
+    "author": "priv",
+    "version": 1,
+    "source": "https://www.po18sm.com/",
+    "regexp": "^(https?:\\/\\/)?(www\\.)?po18sm\\.com\\/\\d+\\/\\d+\\.html$",
+    "description": "Đọc truyện trên trang po18sm.com",
+    "locale": "zh-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
